@@ -2,7 +2,14 @@
 
 ## Full stack web developper
 
-- 🌍  I'm based in Algiers, Algeria### Skills
+a former Python programmer who switched to web development out of pure love. As a full-stack developer nowadays, I enjoy playing with CSS. My go-to front-end framework is React. I also utilize Vue on occasion. And for the backend, I work with Django or Express.
+
+- 🌍  I'm based in Algiers, Algeria
+<!-- <a href="https://www.github.com/aa-Aliane" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/aa-Aliane?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a> -->
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -21,18 +28,18 @@
 </p>
                     
 ### Socials
-
+                  
+                  
 <p align="left">
-            
+    
 <a href="https://www.codepen.io/aaa29" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-            
+    
 <a href="https://www.github.com/aa-Aliane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
+<a href="http://www.github.com/aa-Aliane"><img src="https://github-readme-stats.vercel.app/api?username=aa-Aliane&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="aa-Aliane's GitHub stats" /></a><a
+href="http://www.github.com/aa-Aliane"><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=aa-Aliane&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/aa-Aliane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-Aliane&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/aa-Aliane"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=aa-Aliane&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/aa-Aliane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-Aliane&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
