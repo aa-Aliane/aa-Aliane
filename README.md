@@ -39,7 +39,11 @@ src="https://img.shields.io/github/followers/aa-Aliane?logo=github&style=for-the
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/aa-Aliane"><img src="https://github-readme-stats.vercel.app/api?username=aa-Aliane&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="aa-Aliane's GitHub stats" /></a><a
-href="http://www.github.com/aa-Aliane"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=aa-Aliane&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/aa-Aliane" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-Aliane&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/aa-Aliane">
+<img src="https://github-readme-stats.vercel.app/api?username=aa-Aliane&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="aa-Aliane's GitHub stats" /></a>
+<a href="http://www.github.com/aa-Aliane">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aa-Aliane&stroke=ffffff&background=171717&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/aa-Aliane" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa-Aliane&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
 
