@@ -2,7 +2,7 @@
 
 ## Full stack web developper
 
-a former Python programmer who switched to web development out of pure love. As a full-stack developer nowadays, I enjoy playing with CSS and javascript. My go-to front-end framework is React. I also utilize Vue on occasion. And for the backend, I work with Django or Express.
+a former Python programmer who switched to web development out of pure love. As a full-stack developer nowadays, I enjoy playing with CSS and Javascript. My go-to front-end framework is React. I also utilize Vue on occasion. And for the backend, I work with Django or Express.
 
 - 🌍  I'm based in Algiers, Algeria
 <!-- <a href="https://www.github.com/aa-Aliane" target="_blank" rel="noreferrer"><img
