@@ -20,9 +20,24 @@ My work is driven by a commitment to staying at the forefront of AI:
 
 ## Expertise
 
-- **NLP**: Sentiment analysis (BERT, AraBERT), Fake news detection, Neural Machine Translation (OpenNMT, Fairseq), and Textual similarity (FAISS).
-- **Engineering**: REST API development (FastAPI, Django), Frontend (React, TypeScript).
-- **Infrastructure**: Docker deployment, GPU workstation maintenance, and Database management (PostgreSQL, MongoDB).
+### 🧠 Natural Language Processing
+
+- Designed and developed **text classification models for Arabic sentiment analysis** using Transformer architectures (BERT, AraBERT) via Hugging Face.
+- Built **fake news detection systems** combining semantic representation approaches with deep classification models.
+- Designed **encoder-decoder models for Neural Machine Translation** (Arabic ↔ French/English) using OpenNMT and Fairseq frameworks.
+- Implemented **textual similarity and deduplication systems** for information retrieval, with vector indexing via FAISS.
+
+### 🔬 Scientific Activities
+
+- **Co-organizer of the NLP Challenge**: a competitive NLP challenge involving task design, dataset preparation, and submission evaluation.
+- **Co-supervision of theses**: supervised Master's and Bachelor's students on AI and NLP topics.
+
+### ⚙️ Engineering & Infrastructure
+
+- Developed **REST APIs** (Django REST Framework, FastAPI) and **reactive web interfaces** (React, TypeScript) to expose and visualize research results.
+- Set up and managed **Docker deployment environments** in production.
+- Administered and maintained a **dedicated GPU workstation** for deep learning model training.
+- Managed **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB) databases.
 
 ## Languages
 
